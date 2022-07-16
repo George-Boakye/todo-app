@@ -15,5 +15,8 @@ npm run serve
 npm run build
 ```
 
+### Live URL
+https://monumental-meringue-b7f9e2.netlify.app/
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
